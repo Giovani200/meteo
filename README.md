@@ -1,0 +1,2 @@
+- Ceci est une mini app réalisée graçe à l'api Weather qui vous donne la météo en temps et en heure
+- Il suffit d'entrer la ville et l'app vous fourni la météo 
